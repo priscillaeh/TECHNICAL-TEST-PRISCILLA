@@ -47,7 +47,6 @@ function numberToWords(num) {
   }
   
   // Contoh penggunaan:
-  console.log(numberToWords(12));       // dua belas
-  console.log(numberToWords(2012));     // dua ribu dua belas
-  console.log(numberToWords(999999));   // sembilan ratus sembilan puluh sembilan ribu sembilan ratus sembilan puluh sembilan
-  
+  console.log(numberToWords(28));       
+  console.log(numberToWords(2024));     
+  console.log(numberToWords(280802));  
